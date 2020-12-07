@@ -19,8 +19,6 @@ poetry add <package_name>
 poetry build
 ```
 4. Your `.whl` package is located in `/dist`
-<br />
-<br />
 
 # How to Use
 
