@@ -61,7 +61,7 @@ version: 0.2
         - pre-commit install
     build:
       commands:
-        - pre-commit run --all-files"
+        - pre-commit run --all-files
 artifacts:
   files:
     - *
